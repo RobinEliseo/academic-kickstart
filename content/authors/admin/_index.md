@@ -38,10 +38,10 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fab
+  icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/robin-maillard-444211142/?locale=en_US
 #- icon: twitter
   #icon_pack: fab
