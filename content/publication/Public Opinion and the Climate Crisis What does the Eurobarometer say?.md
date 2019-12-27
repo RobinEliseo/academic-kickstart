@@ -18,12 +18,6 @@ links:
   - name: 'Link: Public Opinion and the Climate Crisis What does the Eurobarometer say?'
     url: 'https://www.iedonline.eu/publications/2019/climate-crisis/public-opinion-and-the-climate-crisis-maillard'
 
-{{< figure src="Climate Change HDI.PNG" title="" lightbox="false" >}}
-
-{{< figure src="Climate Change HDI.jpg" title="b" lightbox="false" >}}
-
-{{< figure library="true" src="Climate Change HD.jpg" title="A caption" lightbox="false" >}}
-
 ---
 
 Abstract:
