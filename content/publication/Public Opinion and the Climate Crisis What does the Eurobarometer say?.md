@@ -27,4 +27,4 @@ The climate crisis could become one of the new dividing points in our democracy.
 
 {{< figure src="Climate Change HDI.jpg" title="b" lightbox="true" >}}
 
-![alternative text for search engines](/img/Climate Change HD.jpg)
+{{< figure library="true" src="Climate Change HD.jpg" title="A caption" lightbox="true" >}}
