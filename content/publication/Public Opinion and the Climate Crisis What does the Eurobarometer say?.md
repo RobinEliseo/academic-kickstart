@@ -12,7 +12,7 @@ comments: true  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "Climate Change HDI.jpg"
 
 links:
   - name: 'Link: Public Opinion and the Climate Crisis What does the Eurobarometer say?'
