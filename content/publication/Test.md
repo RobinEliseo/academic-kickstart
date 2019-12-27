@@ -2,6 +2,11 @@ widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+title: "Public Opinion and the Climate Crisis What does the Eurobarometer say?"
+links: 
+- name: Public Opinion and the Climate Crisis What does the Eurobarometer say?
+- url: 'https://www.iedonline.eu/publications/2019/climate-crisis/public-opinion-and-the-climate-crisis-maillard'
+
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -33,7 +38,3 @@ headless = true  # This file represents a page section.
   #   4 = Citation (publication only)
   view = 2
   
-title: "Public Opinion and the Climate Crisis What does the Eurobarometer say?"
-links: 
-- name: Public Opinion and the Climate Crisis What does the Eurobarometer say?
-- url: 'https://www.iedonline.eu/publications/2019/climate-crisis/public-opinion-and-the-climate-crisis-maillard'
