@@ -8,10 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "Public Opinion and the Climate Crisis What does the Eurobarometer say?"
-#links: 
-#- name: Public Opinion and the Climate Crisis What does the Eurobarometer say?
-#- url: 'https://www.iedonline.eu/publications/2019/climate-crisis/public-opinion-and-the-climate-crisis-maillard'
+subtitle = ""
+
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
