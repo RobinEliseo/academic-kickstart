@@ -15,7 +15,7 @@ header:
   image: ""
 
 links:
-  - name: Public Opinion and the Climate Crisis What does the Eurobarometer say?
+  - name: Link: Public Opinion and the Climate Crisis What does the Eurobarometer say?
     url: 'https://www.iedonline.eu/publications/2019/climate-crisis/public-opinion-and-the-climate-crisis-maillard'
 
 ---
@@ -26,3 +26,5 @@ The climate crisis could become one of the new dividing points in our democracy.
 {{< figure src="Climate Change HDI.PNG" title="" lightbox="true" >}}
 
 {{< figure src="Climate Change HDI.jpg" title="b" lightbox="true" >}}
+
+![alternative text for search engines](/img/image.jpg)
