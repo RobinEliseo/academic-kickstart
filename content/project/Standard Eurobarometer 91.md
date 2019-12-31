@@ -1,5 +1,5 @@
 ---
-title: Standard Eurobaromter 91
+title: Standard Eurobarometer 91
 summary: Reports available in English, French and German
 tags:
 - Kantar
