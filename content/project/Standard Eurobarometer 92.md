@@ -1,8 +1,9 @@
 ---
-title: Standard Eurobarometer 92 
+title: Standard EB 92 
 summary: Ongoing
 tags:
 - Kantar
+- Eurobarometer
 date: "2019-11-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
