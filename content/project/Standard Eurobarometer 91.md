@@ -3,6 +3,8 @@ title: Standard EB 91
 summary: Reports available in English, French and German
 tags:
 - Kantar
+- Eurobarometer
+- Public Opinion
 date: "2019-06-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
