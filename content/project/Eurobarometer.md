@@ -1,6 +1,6 @@
 ---
 title: Europeans in 2019
-summary: Special Eurobarometer `external_link`.
+summary: Special Eurobarometer 
 tags:
 - Kantar
 date: "2019-03-00T00:00:00Z"
