@@ -1,6 +1,6 @@
 ---
 title: Special Eurobarometer - Europeans in 2019
-summary: An example of linking directly to an external project website using `external_link`.
+#summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - Kantar
 date: "2019-03-00T00:00:00Z"
