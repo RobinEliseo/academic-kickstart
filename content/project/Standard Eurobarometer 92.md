@@ -1,6 +1,6 @@
 ---
 title: Standard Eurobarometer 92 
-summary: ongoing
+summary: Ongoing
 tags:
 - Kantar
 date: "2019-11-00T00:00:00Z"
