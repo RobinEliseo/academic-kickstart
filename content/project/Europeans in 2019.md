@@ -3,6 +3,8 @@ title: Europeans in 2019
 summary: Special Eurobarometer, report available in English, French and German
 tags:
 - Kantar
+- Eurobarometer
+- Public Opinion
 date: "2019-03-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
