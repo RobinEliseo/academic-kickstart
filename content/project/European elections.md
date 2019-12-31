@@ -3,6 +3,8 @@ title: European elections
 summary: For the European Parliament
 tags:
 - Kantar
+- European elections
+- European politics
 date: "2019-05-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
