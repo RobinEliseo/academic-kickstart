@@ -1,5 +1,5 @@
 ---
-title: Standard Eurobarometer 91
+title: Standard EB 91
 summary: Reports available in English, French and German
 tags:
 - Kantar
