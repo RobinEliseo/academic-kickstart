@@ -33,12 +33,21 @@ date_format = "Jan 2006"
   #"""
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Research Assistant (Trainee)"
   company = "ENA"
   company_url = "https://www.ena.fr/"
   location = "Strasbourg"
   date_start = "2017-02-01"
   date_end = "2017-07-31"
+  #description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Public Finance Analyst (Trainee)"
+  company = "Association ODIS"
+  company_url = "http://podiumsdesmunicipalites.org/esc/"
+  location = "Wasquehal, France"
+  date_start = "2016-06-01"
+  date_end = "2016-08-01"
   #description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
