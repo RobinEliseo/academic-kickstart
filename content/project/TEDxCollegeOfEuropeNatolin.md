@@ -1,5 +1,5 @@
 ---
-title: TEDx College of Europe Natolin: "Embracing Diversity"
+title: 'TEDx College of Europe Natolin: "Embracing Diversity"'
 
 summary: Ted conference organised at the College of Europe, 2018
 
