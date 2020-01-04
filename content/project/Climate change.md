@@ -1,7 +1,7 @@
 ---
 title: Climate change
 
-summary: Face-to-face Eurobarometer study conducted among the 28 EU Member States. Robin managed the implementation of the study, and worked on the reporting and presentation of data.
+summary: Face-to-face Eurobarometer study conducted among the 28 EU Member States.
 
 tags:
 - Kantar
