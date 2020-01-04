@@ -7,10 +7,6 @@ tags:
 - TedX
 - College of Europe
 
-links:
-- name: 'Link to the TedX website'
-url: 'www.ted.com/tedx/events/28926'
-
 date: "2018-06-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
