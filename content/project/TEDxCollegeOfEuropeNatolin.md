@@ -1,5 +1,5 @@
 ---
-title: TEDxCollegeOfEuropeNatolin
+title: TEDx College of Europe Natolin
 summary: Ted conference organised at the College of Europe, 2018
 tags:
 - TedX
