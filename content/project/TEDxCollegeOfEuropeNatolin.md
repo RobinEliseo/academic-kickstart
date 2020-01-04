@@ -13,7 +13,7 @@ date: "2018-06-00T00:00:00Z"
 #external_link: https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/instruments/SPECIAL/surveyKy/2212
 
 image:
-  caption: "TEDxCollegeofEuropeNatolin.jpg"
+  caption: ""
   focal_point: Smart
   
 links:
@@ -26,7 +26,7 @@ links:
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "TEDxCollegeofEuropeNatolin.jpg"
+  caption: ""
   image: "TEDxCollegeofEuropeNatolin.jpg"
 
 ---
