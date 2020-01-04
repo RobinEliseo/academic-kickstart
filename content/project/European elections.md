@@ -1,10 +1,11 @@
 ---
 title: European elections
-summary: For the European Parliament
+summary: Robin assisted on the implementation of the study, and worked on the reporting and presentation of data.
 tags:
 - Kantar
 - European elections
 - European politics
+- European Parliament
 date: "2019-05-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
