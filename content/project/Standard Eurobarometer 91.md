@@ -1,10 +1,11 @@
 ---
 title: Standard EB 91
-summary: Reports available in English, French and German
+summary: Face-to-face Eurobarometer study conducted among the 28 EU Member States. Reports available in English, French and German.
 tags:
 - Kantar
 - Eurobarometer
 - Public Opinion
+- European Commission
 date: "2019-06-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
