@@ -9,7 +9,7 @@ tags:
 
 links:
 - name: 'Link to the TedX website'
-url: 'https://www.ted.com/tedx/events/28926'
+url: 'www.ted.com/tedx/events/28926'
 
 date: "2019-06-00T00:00:00Z"
 
