@@ -26,7 +26,7 @@ links:
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "TEDxCollegeofEuropeNatolin.jpg"
   image: "TEDxCollegeofEuropeNatolin.jpg"
 
 ---
