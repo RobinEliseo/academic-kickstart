@@ -1,10 +1,13 @@
 ---
 title: Standard EB 92 
 summary: Ongoing
+
 tags:
 - Kantar
 - Eurobarometer
 - Public Opinion
+- European Commission
+
 date: "2019-11-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
