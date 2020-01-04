@@ -49,6 +49,7 @@ The third edition of TEDxCollegeOfEuropeNatolin hosted by Mr Mark DEKKER, an imp
 In 2016 and 2017 she worked as a legal expert in the ‘Truth and Dignity’ Commission of Tunisia where she was responsible for investigating the truth about the various abuses of Human Rights under the dictatorship. She has, from 2006 on, a long experience of Human Rights activist with the General Union of Tunisia Students, the Tunisian League of Human Rights and other civil society actors. She aspires to promote the "values of tolerance, diversity and peace in her society". Her performance will be a great call for respect and mutual acceptance.  
 [![Alt text](https://img.youtube.com/vi/GkdSuGMcpSg/0.jpg)](https://www.youtube.com/watch?v=GkdSuGMcpSg)
 
+{{< youtube GkdSuGMcpSg >}}
 
 ## Emil Balavac  
 ### Youth Worker, Human Rights and Peace Activist  
