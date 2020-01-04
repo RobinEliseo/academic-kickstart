@@ -24,6 +24,11 @@ links:
 #https://damien.pobel.fr/post/youtube-video-github/
 #[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: "TEDxCollegeofEuropeNatolin.jpg"
+
 ---
 
 
@@ -34,6 +39,9 @@ A TEDx event is a local gathering where live TED-like talks and videos previousl
 
 
 The third edition of TEDxCollegeOfEuropeNatolin hosted by Mr Mark DEKKER, an improvisational actor, and passionate entrepreneur, aimed at exploring the depth of Diversity, addressing the "elephant in the room" and inspiring society to make changes that destruct walls and construct bridges.
+
+
+
 
 
 ## Amel Hammami  
