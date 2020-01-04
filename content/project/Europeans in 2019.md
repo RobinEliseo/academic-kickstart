@@ -5,6 +5,7 @@ tags:
 - Kantar
 - Eurobarometer
 - Public Opinion
+- European Commission
 date: "2019-03-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
