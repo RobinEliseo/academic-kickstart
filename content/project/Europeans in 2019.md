@@ -1,6 +1,6 @@
 ---
 title: Europeans in 2019
-summary: Special Eurobarometer, report available in English, French and German
+summary: Face-to-face Eurobarometer study conducted among the 28 EU Member States. Reports available in English, French and German. 
 tags:
 - Kantar
 - Eurobarometer
