@@ -1,11 +1,15 @@
 ---
 title: Climate change
-summary: Special Eurobarometer
+
+summary: Project leader. Face-to-face Eurobarometer study conducted among the 28 EU Member States. Robin managed the implementation of the study, and worked on the reporting and presentation of data.
+
 tags:
 - Kantar
 - Eurobarometer
 - Public Opinion
 - Climate Change
+- European Commission
+
 date: "2019-04-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
