@@ -12,6 +12,11 @@ date: "2019-06-00T00:00:00Z"
 #image:
   #caption: Photo by Toa Heftiba on Unsplash
   #focal_point: Smart
+  
+  links:
+  - name: 'Link to the TedX website'
+    url: 'https://www.iedonline.eu/publications/2019/climate-crisis/public-opinion-and-the-climate-crisis-maillard'
+  
 ---
 
 #Amel Hammami  
