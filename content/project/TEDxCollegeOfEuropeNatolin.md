@@ -28,7 +28,7 @@ links:
 
 
 On 20 June 2018, a group of Natolin students organized the third edition of TEDxCollegeOfEuropeNatolin around the theme: Embracing Diversity. At this unique and innovative event at the College of Europe in Natolin, students of the Simone Veil Promotion and guests could learn more about this essential issue of our modern life through inspiring speeches. Different personalities from around the world delivered performances describing how they managed to challenge themselves.
-
+{{< figure library="true" src="TEDxCollegeofEuropeNatolin.jpg" title="" lightbox="true" >}}
 
 A TEDx event is a local gathering where live TED-like talks and videos previously recorded at a TED conference are shared with the community. TEDx events are fully planned and coordinated independently, on a community-by-community basis. A TEDx event is a suite of short, carefully prepared talks, demonstrations, and performances that are idea-focused, and cover a wide range of subjects to foster learning, inspiration, and wonder – and provoke conversations that matter. Our goal is to spark conversation, connection, and community.
 
