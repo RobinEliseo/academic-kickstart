@@ -67,3 +67,7 @@ email: ""
 #- Researchers
 #- Visitors
 ---
+
+Robin graduated with a degree in Philosophy and Sociology from the University of Lille III, a Master in European public affairs and policies from Sciences Po Strasbourg and a Master of Arts in European interdisciplinary studies from the College of Europe. During those last two degrees, Robin wrote two master thesis on the European political parties. 
+After a traineeship at the French National School of Administration (ÉNA) as a Research assistant in 2017, Robin now works for Kantar as a Research executive since February 2019. He is involved in the several project such as the European elections for the European Parliament or the Standard Eurobarometer for the European Commission. His current research interests include the European public opinion, the communication of the EU institutions and European politics. 
+
