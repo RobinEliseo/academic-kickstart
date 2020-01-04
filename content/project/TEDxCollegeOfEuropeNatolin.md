@@ -13,9 +13,9 @@ date: "2019-06-00T00:00:00Z"
   #caption: Photo by Toa Heftiba on Unsplash
   #focal_point: Smart
   
-links:
-- name: 'Link to the TedX website'
-url: 'http://www.ted.com/tedx/events/28926'
+#links:
+#- name: 'Link to the TedX website'
+#url: 'http://www.ted.com/tedx/events/28926'
   
 ---
 
