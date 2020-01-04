@@ -25,6 +25,8 @@ links:
 #[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
 ---
+
+
 On 20 June 2018, a group of Natolin students organized the third edition of TEDxCollegeOfEuropeNatolin around the theme: Embracing Diversity. At this unique and innovative event at the College of Europe in Natolin, students of the Simone Veil Promotion and guests could learn more about this essential issue of our modern life through inspiring speeches. Different personalities from around the world delivered performances describing how they managed to challenge themselves.
 
 
