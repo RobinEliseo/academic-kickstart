@@ -1,10 +1,10 @@
 ---
-title: TEDx College of Europe Natolin
+title: TEDx College of Europe Natolin: "Embracing Diversity"
 
 summary: Ted conference organised at the College of Europe, 2018
 
 tags:
-- TedX
+- TEDx
 - College of Europe
 
 date: "2018-06-00T00:00:00Z"
@@ -17,7 +17,7 @@ date: "2018-06-00T00:00:00Z"
   #focal_point: Smart
   
 links:
-  - name: 'Link: TedX Website'
+  - name: 'Link: TEDx Website'
     url: 'https://www.ted.com/tedx/events/28926'
     
 #to integrate youtube video
@@ -25,6 +25,14 @@ links:
 #[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
 ---
+On 20 June 2018, a group of Natolin students organized the third edition of TEDxCollegeOfEuropeNatolin around the theme: Embracing Diversity. At this unique and innovative event at the College of Europe in Natolin, students of the Simone Veil Promotion and guests could learn more about this essential issue of our modern life through inspiring speeches. Different personalities from around the world delivered performances describing how they managed to challenge themselves.
+
+
+A TEDx event is a local gathering where live TED-like talks and videos previously recorded at a TED conference are shared with the community. TEDx events are fully planned and coordinated independently, on a community-by-community basis. A TEDx event is a suite of short, carefully prepared talks, demonstrations, and performances that are idea-focused, and cover a wide range of subjects to foster learning, inspiration, and wonder – and provoke conversations that matter. Our goal is to spark conversation, connection, and community.
+
+
+The third edition of TEDxCollegeOfEuropeNatolin hosted by Mr Mark DEKKER, an improvisational actor, and passionate entrepreneur, aimed at exploring the depth of Diversity, addressing the "elephant in the room" and inspiring society to make changes that destruct walls and construct bridges.
+
 
 ## Amel Hammami  
 ### Human Rights Activist  
