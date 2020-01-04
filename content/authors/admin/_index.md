@@ -20,6 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Public Opinion, European politics.
 
+interests:
+- European Public Opinion
+- European Politics
+
 education:
   courses:
   - course: Master European Interdisciplinary Studies
