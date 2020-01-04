@@ -48,8 +48,8 @@ https://www.youtube.com/watch?v=jc4UFsHM_Nw
 ## Julie Dachez  
 ### Author of "La Différence Invisible" ("The Invisible Difference") and "Dans ta Bulle" ("In your Bubble")   
 She has been diagnosed as autistic - Asperger syndrome - at the age of 27. Since then, her life changed and she has reconciled with her inner self. Being a speaker and a transmedia author, she expresses herself either on blogs as well as on the Youtube platform. She is the author of La Différence Invisible (The Invisible Difference) and Dans ta Bulle (In your Bubble). Her performance will bring us in new territories; questioning the very concept of normality in our society. It will also underline the importance of understanding ourselves in order to accept it.  
-https://www.youtube.com/watch?time_continue=215&v=P7QX-eUil1s&feature=emb_logo 
-[![Alt text](https://img.youtube.com/vi/P7QX-eUil1s&feature=emb_logo/0.jpg)](https://www.youtube.com/watch?v=P7QX-eUil1s&feature=emb_logo )
+https://www.youtube.com/watch?time_continue=215&v=P7QX-eUil1s
+[![Alt text](https://img.youtube.com/vi/P7QX-eUil1s/0.jpg)](https://www.youtube.com/watch?v=P7QX-eUil1s)
 
 ## Màriam Lutfi Royo  
 ### Dancer and Lawyer  
