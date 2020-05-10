@@ -173,6 +173,6 @@ The data have now a format that might be use in order to produce nice visualisat
 
 This visualisation is inspired by Dimiter Toshkov's work.     
 http://dimiter.eu/Visualizations_files/ESS/Visualizing_ESS_data.html     
-A description of the code with Eurobaromter data will be provided in a future article. 
+A tutorial showing how to produce this chart will be provided in a future article. 
 
 
