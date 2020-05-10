@@ -13,7 +13,6 @@ header:
 profile: yes
 reading_time: no
 share: yes
-summary: For the Institute of European Democrats
 tags:
 - Eurobarometer
 - Public Opinion
