@@ -167,6 +167,7 @@ GR   14.41550 85.491345 0.09315223
 The data have now a format that might be use in order to produce nice visualisation with the Eurobarometer data as the one below.
 
 
+{{< figure library="true" src="Climate Change HDI.jpg" title="" lightbox="true" >}}
 
 This visualisation is inspired by Dimiter Toshkov's work.     
 http://dimiter.eu/Visualizations_files/ESS/Visualizing_ESS_data.html     
