@@ -31,8 +31,8 @@ dataSPSS<-read.spss("eb91_spss_en.sav", to.data.frame=TRUE)
 ```
 
 Now, the goal is to build a matrix which will have the same data as in the Eurobarometer data in xlsx format. 
-Those xlsx files are called "Volumes" available here:
-https://data.europa.eu/euodp/en/data/dataset/S2253_91_5_STD91_ENG
+Those xlsx files are called "Volumes" available here:   
+https://data.europa.eu/euodp/en/data/dataset/S2253_91_5_STD91_ENG   
 The goal is to reproduce the Volume A which is the set of data showing the results per country. 
 
 One of the first task will be to rename the country using their ISO. The countries of the respondents corresponds to the question labeled "b". 
@@ -48,10 +48,10 @@ dataSPSS <- dataSPSS %>%
   mutate(b = recode(b, "LUXEMBOURG"="LU","DANMARK"="DK","NEDERLAND"="NL","SUOMI"="FI","ÖSTERREICH"="AT","DEUTSCHLAND WEST"="DE","CESKA REPUBLIKA"="CZ","EESTI"="EE","SVERIGE"="SE","IRELAND"="IE","DEUTSCHLAND OST"="DE","SLOVENIJA"="SI","POLSKA"="PL","MAGYARORSZAG"="HU","MALTA"="MT","BELGIQUE"="BE","TURKIYE"="TR","CRNA GORA"="ME","LIETUVA"="LT","KYPROS"="CY","PORTUGAL"="PT","LATVIA"="LV","SHQIPERIA"="AL","ROMANIA"="RO","SLOVENSKA REPUBLIC"="SK","SRPSKI"="RS","REPUBLIKA MAKEDONIJA"="MK","UNITED KINGDOM"="GB","BALGARIJA"="BG","FRANCE"="FR","HRVATSKA"="HR","ESPANA"="ES","ITALIA"="IT","ELLADA"="GR","KUZEY KIBRIS TÜRK CUMHURIYETI"="CY_tcc")) 
 ```
 
-Now, we will create the first data frame. Using some features from the tidyverse libraries. 
-We are counting the number of answers of a particular question (qa1a_1RGPS, this is the answer for QA1a.1 and RGPS means "regroupement" which corresponds to the Totals of this question) using "count". "Count" has a very useful argument "wt" which allow to weight the data. In the Eurobarometer SPSS files, the weight corresponding to the country weight is w1. 
-An overview of the different wieghts are available on the GESIS website: 
-https://www.gesis.org/eurobarometer-data-service/survey-series/standard-special-eb/weighting-overview 
+Now, we will create the first data frame. Using some features from the tidyverse libraries.    
+We are counting the number of answers of a particular question (qa1a_1RGPS, this is the answer for QA1a.1 and RGPS means "regroupement" which corresponds to the Totals of this question) using "count". "Count" has a very useful argument "wt" which allow to weight the data. In the Eurobarometer SPSS files, the weight corresponding to the country weight is w1.    
+An overview of the different wieghts are available on the GESIS website:    
+https://www.gesis.org/eurobarometer-data-service/survey-series/standard-special-eb/weighting-overview       
 Then we apply a spread in order to have the countries as column, we remove the column with the labels which is not useful here. We remove as well the column corresponding to Nothern Cyprus (CY_tcc, this quesiton is not asked there) and Germany (DE). 
 
 ```{r eval = FALSE} 
@@ -169,8 +169,8 @@ The data have now a format that might be use in order to produce nice visualisat
 
 
 
-This visualisation is inspired by Dimiter Toshkov's work.
-http://dimiter.eu/Visualizations_files/ESS/Visualizing_ESS_data.html
+This visualisation is inspired by Dimiter Toshkov's work.     
+http://dimiter.eu/Visualizations_files/ESS/Visualizing_ESS_data.html     
 A description of the code with Eurobaromter data will be provided in a future article. 
 
 
