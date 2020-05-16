@@ -127,8 +127,10 @@ Now we can start to analyse the data such as ordering them.
 VolumeA_Perc2 <- VolumeA_Perc2[order(VolumeA_Perc2$Total_Good, decreasing = TRUE),]
 ```
 
-VolumeA_Perc2
 
+```r 
+view(VolumeA_Perc2)
+```
 ```
    Total_Good Total_Bad         DK
 LU   93.45266  5.267743 1.27959358
