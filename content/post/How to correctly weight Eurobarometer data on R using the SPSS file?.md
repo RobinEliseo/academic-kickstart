@@ -32,7 +32,7 @@ dataSPSS<-read.spss("eb91_spss_en.sav", to.data.frame=TRUE)
 ```
 
 Now, the goal is to build a matrix which will have the same data as in the Eurobarometer data in xlsx format. 
-Those xlsx files are called "Volumes" available here:   
+Those xlsx files are called "Volumes" and are available here:   
 https://data.europa.eu/euodp/en/data/dataset/S2253_91_5_STD91_ENG   
 The goal is to reproduce the Volume A which is the set of data showing the results per country. 
 
@@ -50,7 +50,7 @@ dataSPSS <- dataSPSS %>%
 ```
 
 Now, we will create the first data frame. Using some features from the tidyverse libraries.    
-We are counting the number of answers of a particular question (qa1a_1RGPS, this is the answer for QA1a.1 and RGPS means "regroupement" which corresponds to the Totals of this question) using "count". "Count" has a very useful argument "wt" which allow to weight the data. In the Eurobarometer SPSS files, the weight corresponding to the country weight is w1.    
+We count the number of answers per country of a particular question (qa1a_1RGPS, this is the answer for QA1a.1 and RGPS means "regroupement" which corresponds to the Totals of this question) using "count". "Count" has a very useful argument "wt" which allow to weight the data. In the Eurobarometer SPSS files, the weight corresponding to the country weight is w1.    
 An overview of the different weights are available on the GESIS website:    
 https://www.gesis.org/eurobarometer-data-service/survey-series/standard-special-eb/weighting-overview       
 Then we apply a spread in order to have the countries as column, we remove the column with the labels which is not useful here. We remove as well the column corresponding to Nothern Cyprus (CY_tcc, this quesiton is not asked there) and Germany (DE). 
@@ -167,7 +167,6 @@ GR   14.41550 85.491345 0.09315223
 ```
 
 The data have now a format that might be use in order to produce nice visualisations with the Eurobarometer data as the one below.
-
 
 {{< figure library="true" src="F1_big_eb91.png" title="" lightbox="true" >}}
 
