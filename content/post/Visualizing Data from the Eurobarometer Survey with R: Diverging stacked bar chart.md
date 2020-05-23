@@ -1,5 +1,5 @@
 ---
-title: "Visualizing Data from the Eurobarometer Survey with R: Diverging stacked bar chart"
+title: "Visualizing Data from the Eurobarometer Survey with R: Diverging Stacked Bar Chart"
 author: "Robin Maillard"
 date: "23 May 2020"
 comments: yes
