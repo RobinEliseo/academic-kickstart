@@ -18,6 +18,7 @@ tags:
 - Eurobarometer
 - Public Opinion
 - R
+- Data Visualisation
 commentable: yes
 
 ---
