@@ -121,7 +121,7 @@ GR   14.41550 85.491345 0.09315223
 
 At this point, we "only" have to apply the various steps presented by Dimiter. I will not comment this part of the code as it is mainly an adaptation of Dimiter's work: if you want to enter into details of the code I strongly advise you to go on his website - see the link above - and follow his great tutorial. 
 
-The code for the small size PNG and the big size PNG - also on Github:
+The code for the small size PNG:
 ```
 png ('./figures/F1_small_eb91.png', width=1280, height=906, res=96)
 
@@ -260,8 +260,6 @@ par(xpd = TRUE) # turn on plotting outside the figure region
 points(x = 8.5, y = 123, pch = 15, cex = 10.4, col=blue.1) # add small rectangles with the respective color
 points(x = 8.5 + 7.18, y = 123, pch = 15, cex = 10.4, col=red.1)
 
-
-
 #data statement
 mtext.sign = 1.2
 mtext.sign.emo = 1.5
@@ -295,11 +293,10 @@ mtext(text= fontawesome('fa-rss'),
 
 #end of Small size PNG
 dev.off()
+```
 
-######################################################################################
-###############################BIG SIZE PNG###########################################
-######################################################################################
-
+The code for the big size PNG:
+```
 s = 3 # scaling factor
 mtext.title = 2*s
 mtext.subtitle = 1.5*s
@@ -421,6 +418,7 @@ The final product:
 {{< figure library="true" src="F1_big_eb91.png" title="" lightbox="true" >}}
 
 You are now able to present the results of most question of Eurobarometer surveys using this script.  
+My code is also available on Github. 
 
 
 
