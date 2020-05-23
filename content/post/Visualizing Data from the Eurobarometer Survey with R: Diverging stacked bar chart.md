@@ -17,8 +17,8 @@ share: yes
 tags:
 - Eurobarometer
 - Public Opinion
+- R
 commentable: yes
-
 
 ---
 
@@ -34,7 +34,6 @@ https://robinmaillard.netlify.app/post/how-to-correctly-weight-eurobarometer-dat
 The code presented in this article allows to produce a clean and correctly weighted dataframe of a question of the Eurobarometer survey with the SPSS file. 
 
 ```{r eval = FALSE} 
-
 #Read the SPSS file with the labels
 library(foreign)
 dataSPSS<-read.spss("eb91_spss_en.sav", to.data.frame=TRUE)
@@ -410,7 +409,6 @@ mtext(text= fontawesome('fa-creative-commons'),
 mtext(text= fontawesome('fa-rss'), 
       side=1, line=-1, outer=T, adj=1, padj=0.8, col=red.1, cex=mtext.sign.emo, at = 1 - offset, font=1, family='fontawesome-webfont')
 
-
 #end of Large size PNG
 dev.off()
 ```
@@ -419,6 +417,3 @@ The final product:
 
 You are now able to present the results of most question of Eurobarometer surveys using this script.  
 My code is also available on Github. 
-
-
-
