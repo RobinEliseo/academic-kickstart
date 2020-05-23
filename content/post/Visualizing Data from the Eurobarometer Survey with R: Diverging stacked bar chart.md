@@ -123,13 +123,6 @@ At this point, we "only" have to apply the various steps presented by Dimiter. I
 
 The code for the small size PNG and the big size PNG - also on Github:
 ```
-
-######################################################################################
-#############################SMALL SIZE PNG###########################################
-######################################################################################
-
-
-
 png ('./figures/F1_small_eb91.png', width=1280, height=906, res=96)
 
 library(emojifont)
