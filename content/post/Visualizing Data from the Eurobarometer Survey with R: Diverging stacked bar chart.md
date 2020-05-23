@@ -121,8 +121,7 @@ GR   14.41550 85.491345 0.09315223
 
 At this point, we "only" have to apply the various steps presented by Dimiter. I will not comment this part of the code as it is mainly an adaptation of Dimiter's work: if you want to enter into details of the code I strongly advise you to go on his website - see the link above - and follow his great tutorial. 
 
-The code for the small size PNG and the big size PNG - also on Github
-
+The code for the small size PNG and the big size PNG - also on Github:
 ```
 ######################################################################################
 #############################SMALL SIZE PNG###########################################
@@ -183,7 +182,6 @@ blue.1 = rgb(11, 97, 146, max=255) # default blue (Pantone)
 
 blue.twitter = rgb (29, 161, 242, max=255) # twitter blue
 
-
 #Axes
 library(plyr)
 y.min <- plyr::round_any(max(VolumeA_Perc2[, 'Total_Bad']), accuracy = 10, f = ceiling)
@@ -234,7 +232,6 @@ for (i in 1:dim(VolumeA_Perc2)[1]){ # for each row in the data
 #Gridlines
 abline(h=seq(-100,100,10), col='white', lwd=1)
 abline(h=0, col='white', lwd=3)
-
 
 for (i in 1:dim(VolumeA_Perc2)[1]){ # for each row in the data
   text (rownames(VolumeA_Perc2)[i], x = i, y = 0 + VolumeA_Perc2$Total_Good[i] + 4) # add the names of the countries above each set of bars
@@ -424,8 +421,7 @@ mtext(text= fontawesome('fa-rss'),
 #end of Large size PNG
 dev.off()
 ```
-The final product
-
+The final product:
 {{< figure library="true" src="F1_big_eb91.png" title="" lightbox="true" >}}
 
 You are now able to present the results of most question of Eurobarometer surveys using this script.  
