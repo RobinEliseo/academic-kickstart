@@ -426,6 +426,8 @@ dev.off()
 ```
 The final product
 
+{{< figure library="true" src="F1_big_eb91.png" title="" lightbox="true" >}}
+
 You are now able to present the results of most question of Eurobarometer surveys using this script.  
 
 
