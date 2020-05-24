@@ -176,7 +176,7 @@ This visualisation is inspired by Dimiter Toshkov's work.
 http://dimiter.eu/Visualizations_files/ESS/Visualizing_ESS_data.html     
 A tutorial showing how to produce this chart will be provided in a future article. 
 
-Edit 23/05/2020
-The turotial is now available here:   
+Edit 23/05/2020  
+The tutorial is now available here:   
 https://robinmaillard.netlify.app/post/visualizing-data-from-the-eurobarometer-survey-with-r-diverging-stacked-bar-chart/
 
