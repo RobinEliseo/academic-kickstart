@@ -23,10 +23,10 @@ commentable: yes
 
 ---
 
-In April, I found out a very interesting tutorial wirtten by Dimiter Toshkov and published on his website.  
+In April, I found out a very interesting tutorial written by Dimiter Toshkov and published on his website.  
 http://dimiter.eu/Visualizations_files/ESS/Visualizing_ESS_data.html   
 
-Such tutorial about open data and their visualisation are highly relevant today. In fact, we live in a world where more and more data are available online but few people know how to deal with them. One of the main obstacle is, in my opinion, the lack of quick, easy and turnkey solutions in order to present those data.  
+The existence of such tutorials on open data and their visualisation are highly relevant today. Indeed, we live in a world where more and more data are available online but few people know how to deal with them. One of the main obstacle is, in my opinion, the lack of quick, easy and turnkey solutions in order to present those data.  
 Following Dimiter, I've decided to adapt his work to the Eurobarometer survey. 
 
 Earlier this month, I've published a post on my website on "How to correctly weight Eurobarometer data on R using the SPSS file?" available here:  
@@ -416,5 +416,5 @@ dev.off()
 The final product:
 {{< figure library="true" src="F1_big_eb91.png" title="" lightbox="true" >}}
 
-You are now able to present the results of most question of Eurobarometer surveys using this script.  
+You are now able to present the results of most questions of Eurobarometer surveys by using this script.  
 My code is also available on Github. 
